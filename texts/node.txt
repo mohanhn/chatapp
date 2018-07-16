@@ -1,0 +1,5 @@
+Node is used for making servers, crawlers, cryptomining ... many things.
+Node server => tcp server, udp server, socket server, web server, email server, ... any server.
+
+Features of Node-
+Node Modules
